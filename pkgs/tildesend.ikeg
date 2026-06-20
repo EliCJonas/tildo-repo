@@ -1,0 +1,7 @@
+{
+  "name": "TildeSend",
+  "version": "1.0",
+  "author": "EliCJonas",
+  "description": "A program for sharing files between users on Tildes, shared PUBNIX computers.",
+  "download-url": "https://github.com/EliCJonas/tildesend/releases/download/v1.0.0/tildesend.keg"
+}
